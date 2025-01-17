@@ -26,3 +26,6 @@ The logistic regression model performed exceptionally well, with an overall accu
 
 ## Recommendation:
 Given its high accuracy and reliability in identifying healthy loans, the model is recommended for predicting loan statuses. However, if the company's priority is to minimise false negatives (misclassifying high-risk loans as healthy), further model refinement, such as addressing potential class imbalances, could improve its performance for high-risk loan predictions.
+
+## Credit
+This repository is for Soheil Dabooyeh's Credit Risk challenge for Monash Data Analytics Bootcamp. All code written by Soheil Dabooyeh.
